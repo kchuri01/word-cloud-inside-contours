@@ -1,7 +1,7 @@
 # word-cloud-inside-contours
 Python code to generate TF-IDF-based word clouds within contour masks
 
-This project generates **TF-IDF–weighted word clouds** shaped by image contours — such as planes, owls, or custom silhouettes — using text from *The Adventures of Sherlock Holmes* (Project Gutenberg).
+This project generates **TF-IDF–weighted word clouds** shaped by image contours such as planes, owls, or custom silhouettes using text from *The Adventures of Sherlock Holmes* (Project Gutenberg).
 
 # Files in this repository
 | File | Description |
