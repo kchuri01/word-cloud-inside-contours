@@ -1,4 +1,4 @@
-# Author: Kajal Kiran Churi
+# Author: Kajal Churi
 # Project: Word Cloud Inside Contours
 
 # pip install wordcloud pillow matplotlib scikit-learn requests
